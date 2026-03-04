@@ -12,6 +12,7 @@ nav:
   - Home: index.md
   - 烟蒂股分析 (Cigbutt):
       - Overview: cigbutt/index.md
+      - cigbutt/烟蒂股分析Prompt_v1.8.md
       - cigbutt/烟蒂股分析Prompt_v1.7.md
       - cigbutt/烟蒂股分析Prompt_v1.6.md
       - cigbutt/烟蒂股分析Prompt_v1.5.md
