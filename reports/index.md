@@ -27,6 +27,7 @@
 
 ## 龟龟投资策略分析报告
 
+- [保利物业 06049](turtle_reports/保利物业06049/保利物业_06049_分析报告.md)
 - [蒙牛乳业 v0.13](turtle_reports/蒙牛乳业_龟龟投资策略分析报告_v0.13_H12025更新.md)
 - [分众传媒](turtle_reports/分众传媒_龟龟投资策略分析报告.md)
 - [DUOL 多邻国](turtle_reports/DUOL_龟龟投资策略分析报告.md)

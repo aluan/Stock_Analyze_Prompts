@@ -65,6 +65,10 @@ nav:
           - reports/cigbutt_reports/禅游科技_烟蒂股分析报告.md
           - reports/cigbutt_reports/中教控股_烟蒂股分析报告.md
       - 龟龟投资策略报告:
+          - 保利物业:
+              - reports/turtle_reports/保利物业06049/保利物业_06049_分析报告.md
+              - reports/turtle_reports/保利物业06049/data_pack_market.md
+              - reports/turtle_reports/保利物业06049/data_pack_report.md
           - reports/turtle_reports/蒙牛乳业_龟龟投资策略分析报告_v0.13_H12025更新.md
           - reports/turtle_reports/分众传媒_龟龟投资策略分析报告.md
           - reports/turtle_reports/DUOL_龟龟投资策略分析报告.md
